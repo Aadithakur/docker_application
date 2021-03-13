@@ -11,8 +11,8 @@
 	</parent>
 	<groupId>com.aws.batch</groupId>
 	<artifactId>aws_batch</artifactId>
-	<version>0.0.1</version>
-	<name>aws_batch</name>
+	<version>1</version>
+	<name>awsbatch</name>
 	<description>aws batch project for Spring Boot</description>
 
 	<properties>
